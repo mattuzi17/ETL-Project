@@ -1,13 +1,13 @@
-##  ETL Case Study Project
+##  Machine Learning Project
 
 ### Overview Report 
 
 
-### Exctraction 
+### Data
 
 For this project NHL game data (https://www.kaggle.com/martinellis/nhl-game-data) was used and extracted from CSV files. 
 
-### Transformation
+### Analysis
 This project will be working with seasons 14’-15’ to 18’-19’
 
 Using the Pandas library in Jupyter Notebook, the data will be transformed into dataframes which will contain:
